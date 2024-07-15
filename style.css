@@ -1,0 +1,32 @@
+.titleodin {
+    color: orange;
+    text-align: center;
+    font-size: 65px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.link {
+    font-size: 24px;
+    text-align: center;
+}
+
+.imagefood {
+    text-align: center;
+}
+
+.food {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(224, 245, 212);
+}
+
+.pizzabg {
+    background-color: rgb(231, 162, 162);
+}

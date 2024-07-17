@@ -3,11 +3,18 @@
     text-align: center;
     font-size: 65px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    margin: 1px auto;
 }
 
 .link {
+    background-color: rgb(253, 230, 186);
     font-size: 24px;
     text-align: center;
+    border: 1px solid rgb(75, 75, 75);
+    padding: 8px;
+    margin: 150px auto;
+    width: 170px
 }
 
 .imagefood {
